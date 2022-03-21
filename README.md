@@ -13,7 +13,7 @@ You can view the site here [Click Me](https://meciway.github.io/Dicee-Game/)
 - JavaScript
 - Responsive Design
 
-#### Author
+### Author
 
 Merve Aydın Sağlam
 
